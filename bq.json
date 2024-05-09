@@ -1,0 +1,50 @@
+
+{
+    "BigQuery Schema":
+    [
+        {
+            "name": "symbol",
+            "type": "STRING"
+        },
+        {
+            "name": "name",
+            "type": "STRING"
+        },
+        {
+            "name": "date",
+            "type": "DATE"
+        },
+        {
+            "name": "open",
+            "type": "STRING"
+        },
+        {
+            "name": "high",
+            "type": "STRING"
+        },
+        {
+            "name": "low",
+            "type": "STRING"
+        },
+        {
+            "name": "close",
+            "type": "STRING"
+        },
+        {
+            "name": "change",
+            "type": "STRING"
+        },
+        {
+            "name": "changePercent",
+            "type": "STRING"
+        },
+        {
+            "name": "label",
+            "type": "STRING"
+        },
+        {
+            "name": "ingest_timestamp",
+            "type": "DATETIME"
+        }
+    ]
+}
